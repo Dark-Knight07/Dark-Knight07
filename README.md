@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Owais</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img allign="right" alt ="coding" width="400" src ="![image](https://github.com/Dark-Knight07/Dark-Knight07/assets/101447328/6d360a9b-105f-4b8b-8db4-1b5b5c444f95)
-"
+<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-knight07&label=Profile%20views&color=0e75b6&style=flat" alt="dark-knight07" /> </p>
 
