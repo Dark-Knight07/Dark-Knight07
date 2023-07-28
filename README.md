@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owais</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img allign="right" alt ="coding" width="400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
+<img allign="right" alt ="coding" width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw0D5GCeeEmvCohkcmKEsztG&ust=1690641949869000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqGAoTCJjGkY7SsYADFQAAAAAdAAAAABCHAg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-knight07&label=Profile%20views&color=0e75b6&style=flat" alt="dark-knight07" /> </p>
 
