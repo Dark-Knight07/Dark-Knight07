@@ -1,37 +1,305 @@
-<h1 align="center">Hi 👋, I'm Owais</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+⚡ MD OWAIS
+
+Cloud Support Engineer • IT Operations • Cloud Infrastructure • DevOps • Automation • AI
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=180&section=header&text=OWAIS%20//%20CLOUD%20LAB&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20%E2%80%A2%20Automating%20%E2%80%A2%20Exploring&descAlignY=58&descSize=16" width="100%"/>
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-knight07&label=Profile%20views&color=0e75b6&style=flat" alt="dark-knight07" /> </p>
 
-<p align="left"> <a href="https://twitter.com/owais" target="blank"><img src="https://img.shields.io/twitter/follow/owais?logo=twitter&style=for-the-badge" alt="owais" /></a> </p>
+Infrastructure is not just something I manage.
+It's something I build, automate, monitor, and continuously improve.
 
-- 🔭 I’m currently working on **Android Development**
+</div>
 
-- 🌱 I’m currently learning **React-Native**
+🖥️ SYSTEM STATUS
 
-- 💬 Ask me about **Java, DSA, HTML, CSS, PHP, Java-script, MySQL, Bootstrap**
+┌──────────────────────────────────────────────────────────────┐
+│                 OWAIS // CLOUD OPERATIONS                    │
+├──────────────────────────────────────────────────────────────┤
+│  ROLE          → Cloud Support Engineer / IT Operations     │
+│  FOCUS         → Cloud • Infrastructure • Automation       │
+│  CLOUD         → AWS • Microsoft Cloud • Google Cloud       │
+│  DEVOPS        → Git • Docker • CI/CD • IaC                 │
+│  AUTOMATION    → Python • PowerShell • APIs                 │
+│  AI LAB        → AI • Agents • Automation • Experiments     │
+│  STATUS        → ● ONLINE                                   │
+└──────────────────────────────────────────────────────────────┘
 
-- 📫 How to reach me **mdowais.dev@gmail.com**
+☁️ ABOUT ME
 
-- ⚡ Fun fact **Gamer as well as Developer**
+I'm MD Owais, a Cloud Support Engineer / IT Operations professional focused on building reliable infrastructure, automating repetitive operations, and exploring the intersection of Cloud, DevOps, AI, and Infrastructure Engineering.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/owais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owais" height="30" width="40" /></a>
-<a href="https://fb.com/mr owais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr owais" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_mac_owais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_mac_owais" height="30" width="40" /></a>
+I enjoy turning real-world operational problems into systems that are:
+
+⚙️ Automated
+
+☁️ Cloud-native
+
+🔐 Secure
+
+📊 Observable
+
+🚀 Scalable
+
+🤖 Intelligent
+
+$ whoami
+MD Owais
+
+$ mission
+Build → Automate → Monitor → Improve
+
+$ current_mode
+Learning + Building + Experimenting
+
+🧠 TECHNOLOGY ARSENAL
+
+☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,windows" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+AWS: EC2 • S3 • IAM • VPC • Route 53 • CloudFront • Lambda
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark-knight07&show_icons=true&locale=en&layout=compact" alt="dark-knight07" /></p>
+Infrastructure: Networking • Identity • Monitoring • Backup • Security • Troubleshooting
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-knight07&show_icons=true&locale=en" alt="dark-knight07" /></p>
+⚙️ DevOps & Automation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark-knight07&" alt="dark-knight07" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,terraform,python,bash,powershell" />
+</p>
+
+💻 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,nodejs" />
+</p>
+
+🤖 AI & Emerging Technology
+
+Generative AI • AI Agents • AIOps • RAG • LLM Infrastructure • AI Automation
+
+🚀 PROJECT LAB
+
+A collection of infrastructure concepts, experiments, and future builds.
+
+Project
+
+Concept
+
+Stack
+
+Status
+
+🩺 Self-Healing Cloud
+
+Detect and automatically recover infrastructure failures
+
+AWS • CloudWatch • Lambda
+
+🧪 Building
+
+🛡️ Cloud Security Sentinel
+
+Detect cloud security misconfigurations
+
+AWS • IAM • Python
+
+🧪 Exploring
+
+🤖 AI Infrastructure Copilot
+
+AI assistant for infrastructure analysis and remediation
+
+AI • Python • Terraform
+
+🔬 Research
+
+💰 Cloud Cost Intelligence
+
+Detect waste and recommend cloud savings
+
+AWS • Python • FinOps
+
+💡 Planned
+
+🌐 3D Cloud Explorer
+
+Explore infrastructure through an interactive 3D environment
+
+Three.js • WebGL • Cloud
+
+🚀 Concept
+
+🔄 AI DevOps Agent
+
+Analyze CI/CD failures and recommend fixes
+
+AI • GitHub Actions • Docker
+
+🔬 Research
+
+🏗️ IaC Generator
+
+Convert natural-language infrastructure requests into Terraform
+
+AI • Terraform • AWS
+
+💡 Planned
+
+📡 Infrastructure Health Monitor
+
+Monitor servers, APIs, services, and availability
+
+Python • Prometheus • Grafana
+
+🧪 Exploring
+
+🛰️ CLOUD ARCHITECTURE LAB
+
+                         🌐 INTERNET
+                              │
+                              ▼
+                       ┌──────────────┐
+                       │  CloudFront  │
+                       └──────┬───────┘
+                              │
+                              ▼
+                       ┌──────────────┐
+                       │     ALB      │
+                       └──────┬───────┘
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+               ┌─────────┐         ┌─────────┐
+               │   EC2   │         │ Lambda  │
+               └────┬────┘         └────┬────┘
+                    │                   │
+                    └─────────┬─────────┘
+                              ▼
+                     ┌────────────────┐
+                     │  Data Layer    │
+                     │ RDS / DynamoDB │
+                     └───────┬────────┘
+                             │
+                             ▼
+                          ┌─────┐
+                          │ S3  │
+                          └─────┘
+
+🔥 WHAT I'M EXPLORING
+
+[████████████████████] Cloud Infrastructure
+[██████████████████░░] DevOps & Automation
+[████████████████░░░░] AI + Cloud
+[██████████████░░░░░░] Infrastructure as Code
+[████████████░░░░░░░░] Cloud Security
+[███████████░░░░░░░░░] AIOps
+[█████████░░░░░░░░░░░] Autonomous Infrastructure
+
+Current Interests
+
+☁️ Cloud Architecture
+
+🏗️ Infrastructure as Code
+
+🔄 CI/CD & Platform Engineering
+
+🤖 AI-powered Operations
+
+🛡️ Cloud Security & Zero Trust
+
+📊 Observability & Monitoring
+
+💰 FinOps & Cost Optimization
+
+🧠 AI Agents for IT Operations
+
+🌐 Digital Twins & 3D Infrastructure
+
+⚡ Self-Healing Infrastructure
+
+📊 GITHUB INTELLIGENCE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dark-Knight07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Knight07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Dark-Knight07&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+🧪 OWAIS AI LAB
+
+Experimenting with what happens when AI meets Infrastructure.
+
+AI AGENT
+   │
+   ├── Observe infrastructure
+   │
+   ├── Analyze telemetry
+   │
+   ├── Detect anomalies
+   │
+   ├── Recommend remediation
+   │
+   └── Execute approved actions
+             │
+             ▼
+       CLOUD INFRASTRUCTURE
+
+Goal: Move from infrastructure that simply reports problems to infrastructure that can understand, recommend, and intelligently respond.
+
+🗺️ LEARNING ROADMAP
+
+2026
+ │
+ ├── ☁️ Cloud Architecture
+ │
+ ├── ⚙️ DevOps & IaC
+ │
+ ├── 🔐 Cloud Security
+ │
+ ├── 🤖 AI + Infrastructure
+ │
+ ├── 📊 Observability
+ │
+ ├── 🧠 AIOps
+ │
+ └── 🚀 Autonomous Infrastructure
+
+💡 ENGINEERING PHILOSOPHY
+
+Automate the repetitive.
+Monitor the important.
+Secure the critical.
+Learn from every failure.
+Build systems that get better over time.
+
+📡 CONNECT
+
+<div align="center">
+
+Interested in Cloud, Infrastructure, DevOps, Automation or AI?
+
+Let's build something interesting.
+
+
+
+
+<br/>
+
+SYSTEM STATUS: ONLINE • BUILDING THE FUTURE
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
